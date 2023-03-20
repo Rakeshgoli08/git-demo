@@ -1,1 +1,1 @@
-example of js
+feature 1
